@@ -119,8 +119,8 @@ BLOD: Stilgar
 
 SPSH: 40oz
 
-Map placeholders: Oblige
-
 Additional Credits:
+
+Map placeholders: Oblige
 
 Placeholders: Leilei
