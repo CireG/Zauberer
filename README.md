@@ -31,3 +31,73 @@ PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
 LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+========
+Credits
+========
+Lumps:
+
+PLAYPAL: Stilgar
+COLORMAP: Stilgar
+TINTTAB: Stilgar
+TITLE: Jute Gyte
+SNDCURVE: Autogenerate (Stilgar)
+AUTOPAGE: GreyGhost
+
+
+Sounds:
+
+PLRDTH: RottKing
+WAND4: Eriance
+RESPAWN: Jute Gyte
+
+
+Graphics:
+
+ADVISOR: Stilgar
+STATBAR: Stilgar
+INVBAR: Stilgar
+ARTIBOX: Stilgar
+CHAIN: Stilgar
+SELECTBO: Stilgar
+IN: Stilgar
+NEGNUM: Stilgar
+SMALLIN: Stilgar
+M_HTIC: Jute Gyte
+M_SLCTR: Stilgar
+FONT: Mechadon
+
+
+Patches:
+
+SKY1: DooMAD
+SKY2: Stilgar
+SKY3: Stilgar
+WALL501: Stilgar
+
+
+Sprites:
+
+Weapon Sprites:
+MWND: Eriance
+
+Item Sprites:
+SOAR: Stilgar
+ATLP: Stilgar
+INVU: Stilgar
+PTN: Stilgar
+SPHL: Stilgar
+
+Decor:
+BARL: Warfare
+
+Misc:
+BLOD: Stilgar
+SPSH: 40oz
+
+
+Map placeholders: Oblige
+
+
+Additional Credits:
+
+Placeholders: Leilei
