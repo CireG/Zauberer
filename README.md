@@ -35,92 +35,90 @@ Credits
 ========
 Lumps:
 
-PLAYPAL: Stilgar
+  * PLAYPAL: Stilgar
 
-COLORMAP: Stilgar
+  * COLORMAP: Stilgar
 
-TINTTAB: Stilgar
+  * TINTTAB: Stilgar
 
-TITLE: Jute Gyte
+  * TITLE: Jute Gyte
 
-SNDCURVE: Autogenerate (Stilgar)
+  * SNDCURVE: Autogenerate (Stilgar)
 
-AUTOPAGE: GreyGhost
+  * AUTOPAGE: GreyGhost
 
 Sounds:
 
-PLRDTH: RottKing
+  * PLRDTH: RottKing
 
-WAND4: Eriance
+  * WAND4: Eriance
 
-RESPAWN: Jute Gyte
+  * RESPAWN: Jute Gyte
 
 Graphics:
 
-ADVISOR: Stilgar
+  * ADVISOR: Stilgar
 
-STATBAR: Stilgar
+  * STATBAR: Stilgar
 
-INVBAR: Stilgar
+  * INVBAR: Stilgar
 
-ARTIBOX: Stilgar
+  * ARTIBOX: Stilgar
 
-CHAIN: Stilgar
+  * CHAIN: Stilgar
 
-SELECTBO: Stilgar
+  * SELECTBO: Stilgar
 
-IN: Stilgar
+  * IN: Stilgar
 
-NEGNUM: Stilgar
+  * NEGNUM: Stilgar
 
-SMALLIN: Stilgar
+  * SMALLIN: Stilgar
 
-M_HTIC: Jute Gyte
+  * M_HTIC: Jute Gyte
 
-M_SLCTR: Stilgar
+  * M_SLCTR: Stilgar
 
-FONT: Mechadon
+  * FONT: Mechadon
 
 Patches:
 
-SKY1: DooMAD
+  * SKY1: DooMAD
 
-SKY2: Stilgar
+  * SKY2: Stilgar
 
-SKY3: Stilgar
+  * SKY3: Stilgar
 
-WALL501: Stilgar
-
-Sprites:
+  * WALL501: Stilgar
 
 Weapon Sprites:
 
-MWND: Eriance
+  * MWND: Eriance
 
 Item Sprites:
 
-SOAR: Stilgar
+  * SOAR: Stilgar
 
-ATLP: Stilgar
+  * ATLP: Stilgar
 
-INVU: Stilgar
+  * INVU: Stilgar
 
-PTN: Stilgar
+  * PTN: Stilgar
 
-SPHL: Stilgar
+  * SPHL: Stilgar
 
-Decor:
+Decor Sprites:
 
-BARL: Warfare
+  * BARL: Warfare
 
-Misc:
+Misc Sprites:
 
-BLOD: Stilgar
+  * BLOD: Stilgar
 
-SPSH: 40oz
+  * SPSH: 40oz
 
 Additional Credits:
 
-Map placeholders: Oblige
+  * Map placeholders: Oblige
 
-Placeholders: Leilei
+  * Placeholders: Leilei
