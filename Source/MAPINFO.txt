@@ -1,0 +1,245 @@
+map 1 "THE HERESIARCH'S KINGDOM"
+warptrans 1
+next 2
+cluster 1
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 2 "MYSTICAL TOWN"
+warptrans 2
+next 3
+cluster 1
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 3 "TRIALED IN FLAMES"
+warptrans 3
+next 4
+cluster 1
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 4 "PUNISHMENT DEFINED"
+warptrans 4
+next 5
+cluster 1
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 5 "ENDLESS DOMAIN OF SORCERY"
+warptrans 5
+next 6
+cluster 1
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 6 "COCYTUS"
+warptrans 6
+next 7
+cluster 1
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 7 "THE ANCIENT COURT"
+warptrans 7
+next 8
+cluster 1
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 8 "GHOSTLY ALTAR"
+warptrans 8
+next 9
+cluster 2
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 9 "SILENT CHAPEL"
+warptrans 9
+next 10
+cluster 2
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 10 "ACRID MONESTARY"
+warptrans 10
+next 11
+cluster 2
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 11 "DEAD WASTELAND"
+warptrans 11
+next 12
+cluster 2
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 12 "KEEP OF SHADOWS"
+warptrans 12
+next 13
+cluster 2
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 13 "UNHOLY FOREST"
+warptrans 13
+next 14
+cluster 2
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 14 "CITY OF SCHISM"
+warptrans 14
+next 15
+cluster 2
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 15 "FEAR THE RAW CEREMONY"
+warptrans 15
+next 16
+cluster 3
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 16 "PLAZA OF ILLUSION"
+warptrans 16
+next 17
+cluster 3
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 17 "TORTUOUS LITURGY"
+warptrans 17
+next 18
+cluster 3
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 18 "DEMONIC CRUCIBLE"
+warptrans 18
+next 19
+cluster 3
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 19 "VERTIGONE"
+warptrans 19
+next 20
+cluster 3
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 20 "LORD OF DESTRUCTION"
+warptrans 20
+next 21
+cluster 3
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 21 "FORGOTTEN CASTLE"
+warptrans 21
+next 22
+cluster 3
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 22 "ZEDEK'S SPRAWLING CATHEDRAL"
+warptrans 22
+next 23
+cluster 4
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 23 "DANK SHORES"
+warptrans 23
+next 24
+cluster 4
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 24 "RED-HOT CHAMBER OF FAMINE"
+warptrans 24
+next 25
+cluster 4
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 25 "ASSAULT ON THE DEN"
+warptrans 25
+next 26
+cluster 4
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 26 "MASSIVE HOLLOW"
+warptrans 26
+next 27
+cluster 4
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 27 "MENALKIR'S WICKED MIRE"
+warptrans 27
+next 28
+cluster 4
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 28 "ENCAMPMENT OF FEAR"
+warptrans 28
+next 29
+cluster 4
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 29 "SACRAMENT OF HORROR"
+warptrans 29
+next 30
+cluster 5
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 30 "UNGODLY MERE"
+warptrans 30
+next 31
+cluster 5
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 31 "WELCOME TO THE BRUTAL PALACE"
+warptrans 31
+next 32
+cluster 5
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 32 "ENTER THE SILENT PLATEAU"
+warptrans 32
+next 33
+cluster 5
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 33 "TEMPLE OF CHAOS SERPENTS"
+warptrans 33
+next 34
+cluster 5
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 34 "ETERNAL SHRINE"
+warptrans 34
+next 35
+cluster 5
+sky1 SKY2 0
+sky2 SKY3 0
+
+map 35 "D'SPARIL'S SLIME DUNGEON"
+warptrans 35
+next 1
+cluster 5
+sky1 SKY2 0
+sky2 SKY3 0
+
