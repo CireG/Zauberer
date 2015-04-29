@@ -35,3 +35,5 @@ Penultimate Chapter - The Aido Fighting Team
 Last Chapter - The Alien Invasion
 
  Aliens invade. Only the Aido Fighting Team can stand against them.
+ 
+ (The aliens should probably be changed to something else.)
