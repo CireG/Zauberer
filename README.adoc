@@ -24,11 +24,11 @@ Maps should stay in "Hexen" format, obviously.
 
 Before you submit, ask yourself these questions:
 
- * Is map balanced for this map slot?
+ * Is the map balanced for this map slot?
  * Are all player starts functional?
  * Are there any special tricks being used, that could potentially break the map in various source ports?
  * Did I test this map thoroughly?
- * Is too complex, more than Hexen?
+ * Is too complex or too simple?
  * Is it fun for the average player?
 
 === Graphics
@@ -41,16 +41,16 @@ The best way to answer this question is to ask the community in various ways.
 Here are some of the typical ways of doing so:
 
 _Option 1_
- * Post your work on https://www.doomworld.com/vb/freedoom/72519-zauberer/[the official Zauberer thread] at Doomworld.
+ : Post your work on https://www.doomworld.com/vb/freedoom/72519-zauberer/[the official Zauberer thread] at Doomworld.
 
 _Option 2_
- *Directly send a pull request of your submission here. 
+ : Directly send a pull request of your submission here. 
 
 _Option 3_
- *Email CireG or someone you know that can give good feedback.
+ : Email CireG or someone you know that can give good feedback.
 
 _Option 4_
- *IRC, such as #zdoom, #zandronum, #freedoom, etc 
+ : IRC, such as #zdoom, #zandronum, #freedoom, etc 
 
 === Documenting
 
