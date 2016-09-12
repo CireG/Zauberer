@@ -2,7 +2,7 @@
 
 _Zauberer_ is a project for creating an IWAD that can run all Hexen PWADs out there. In order to play this, a source port capable of running Hexen, is required.
 
-Although the Doom engine source code is free to to the public, the IWAD required to play on the engine, is not. _Zauberer_ aims to provide you a free-content IWAD at your disposal. The GPL licensed source code mixed with non-commercial assets creates a completely free Hexen alternative. 
+Although the Doom engine source code is free to to the public, the IWAD required to play on the engine, is not. _Zauberer_ aims to provide you a free-content IWAD at your disposal. The GPL licensed source code mixed with non-commercial assets creates a completely free Hexen alternative. Zauberer uses the ISC license, which can be seen in the file "LICENSE".
 
 == Launching Zauberer
 In order to load this IWAD, a source port is required, of which a list is available on the
@@ -53,5 +53,4 @@ _Option 4_
  : IRC, such as #zdoom, #zandronum, #freedoom, etc 
 
 === Documenting
-
-Zauberer could use some documents, such as credits, adding to the http://doomwiki.org/wiki/Zauberer[Zauberer page at Doom Wiki] and maybe an actual license.
+Zauberer could use some documents, such as credits and adding to the http://doomwiki.org/wiki/Zauberer[Zauberer page at Doom Wiki].
